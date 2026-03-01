@@ -1,0 +1,4 @@
+﻿  7.4.cpp
+C:\Users\limits\Desktop\c++ learning\day7\day7\7.4.cpp(104,1): warning C4715: “App::isEffective”: 不是所有的控件路径都返回值
+C:\Users\limits\Desktop\c++ learning\day7\day7\7.4.cpp(127,1): warning C4715: “App::time”: 不是所有的控件路径都返回值
+  day7.vcxproj -> C:\Users\limits\Desktop\c++ learning\day7\x64\Debug\day7.exe
