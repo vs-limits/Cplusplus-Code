@@ -1,0 +1,11 @@
+﻿  A.cpp
+C:\Users\limits\Desktop\c++ learning\数据结构\6-KMP算法\week6\A.cpp(12,17): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\limits\Desktop\c++ learning\数据结构\6-KMP算法\week6\A.cpp(26,33): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\limits\Desktop\c++ learning\数据结构\6-KMP算法\week6\A.cpp(63,26): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\limits\Desktop\c++ learning\数据结构\6-KMP算法\week6\A.cpp(68,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  B.cpp
+  C.cpp
+  D.cpp
+  E.cpp
+  正在生成代码...
+  week6.vcxproj -> C:\Users\limits\Desktop\c++ learning\数据结构\6-KMP算法\x64\Debug\week6.exe
